@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Avi123negocios.github.io/static/css/main.0c0090a4.chunk.css",
-    "main.js": "/Avi123negocios.github.io/static/js/main.4bafd92d.chunk.js",
-    "main.js.map": "/Avi123negocios.github.io/static/js/main.4bafd92d.chunk.js.map",
-    "runtime-main.js": "/Avi123negocios.github.io/static/js/runtime-main.77b7640c.js",
-    "runtime-main.js.map": "/Avi123negocios.github.io/static/js/runtime-main.77b7640c.js.map",
-    "static/css/2.2c2d1656.chunk.css": "/Avi123negocios.github.io/static/css/2.2c2d1656.chunk.css",
-    "static/js/2.63ee8813.chunk.js": "/Avi123negocios.github.io/static/js/2.63ee8813.chunk.js",
-    "static/js/2.63ee8813.chunk.js.map": "/Avi123negocios.github.io/static/js/2.63ee8813.chunk.js.map",
-    "static/js/3.485b2fa9.chunk.js": "/Avi123negocios.github.io/static/js/3.485b2fa9.chunk.js",
-    "static/js/3.485b2fa9.chunk.js.map": "/Avi123negocios.github.io/static/js/3.485b2fa9.chunk.js.map",
-    "index.html": "/Avi123negocios.github.io/index.html",
-    "static/css/2.2c2d1656.chunk.css.map": "/Avi123negocios.github.io/static/css/2.2c2d1656.chunk.css.map",
-    "static/css/main.0c0090a4.chunk.css.map": "/Avi123negocios.github.io/static/css/main.0c0090a4.chunk.css.map",
-    "static/js/2.63ee8813.chunk.js.LICENSE.txt": "/Avi123negocios.github.io/static/js/2.63ee8813.chunk.js.LICENSE.txt"
+    "main.css": "/MyApp/static/css/main.0c0090a4.chunk.css",
+    "main.js": "/MyApp/static/js/main.0b400897.chunk.js",
+    "main.js.map": "/MyApp/static/js/main.0b400897.chunk.js.map",
+    "runtime-main.js": "/MyApp/static/js/runtime-main.fda2edd5.js",
+    "runtime-main.js.map": "/MyApp/static/js/runtime-main.fda2edd5.js.map",
+    "static/css/2.2c2d1656.chunk.css": "/MyApp/static/css/2.2c2d1656.chunk.css",
+    "static/js/2.63ee8813.chunk.js": "/MyApp/static/js/2.63ee8813.chunk.js",
+    "static/js/2.63ee8813.chunk.js.map": "/MyApp/static/js/2.63ee8813.chunk.js.map",
+    "static/js/3.485b2fa9.chunk.js": "/MyApp/static/js/3.485b2fa9.chunk.js",
+    "static/js/3.485b2fa9.chunk.js.map": "/MyApp/static/js/3.485b2fa9.chunk.js.map",
+    "index.html": "/MyApp/index.html",
+    "static/css/2.2c2d1656.chunk.css.map": "/MyApp/static/css/2.2c2d1656.chunk.css.map",
+    "static/css/main.0c0090a4.chunk.css.map": "/MyApp/static/css/main.0c0090a4.chunk.css.map",
+    "static/js/2.63ee8813.chunk.js.LICENSE.txt": "/MyApp/static/js/2.63ee8813.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.77b7640c.js",
+    "static/js/runtime-main.fda2edd5.js",
     "static/css/2.2c2d1656.chunk.css",
     "static/js/2.63ee8813.chunk.js",
     "static/css/main.0c0090a4.chunk.css",
-    "static/js/main.4bafd92d.chunk.js"
+    "static/js/main.0b400897.chunk.js"
   ]
 }
